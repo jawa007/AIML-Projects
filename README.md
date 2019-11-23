@@ -4,18 +4,22 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
 1. Statistical Learning
     - This module covered - Descriptive Statistics, - Probability & Conditional Probability, - Hypothesis Testing, - Inferential Statistics, - Probability Distributions, - Types of distribution and - Binomial, Poisson & Normal distribution
     - **Project link:** [Applied Stats](https://github.com/sharmapratik88/AIML-Projects/tree/master/01_Applied%20Stats)
+        - This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
     
 2. Supervised Machine Learning
     - This module covered - Multiple Variable Linear regression, - Logistic regression, - Naive Bayes classifiers, - Multiple regression, - K-NN classification, - Support vector machines
     - **Project link:** [Supervised Machine Learning](https://github.com/sharmapratik88/AIML-Projects/tree/master/02_Supervised%20Machine%20Learning)
+        - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
 
 3. Ensemble Techniques
     - This module covered - Decision Trees, - Bagging, - Random Forests, - Boosting
     - **Project link:** [Ensemble Technique](https://github.com/sharmapratik88/AIML-Projects/tree/master/03_Ensemble%20Techniques)
+        - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
 
 4. Unsupervised Machine Learning
     - This module covered - K-means clustering, - High-dimensional clustering, - Hierarchical clustering, - Dimension Reduction-PCA
     - **Project link:** [Unsupervised Learning](https://github.com/sharmapratik88/AIML-Projects/tree/master/04_Unsupervised%20Learning)
+        - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
     
 5. Recommendation Systems
     - This module covered - Introduction to Recommendation systems, - Popularity based model, - Hybrid models, - Content based recommendation system, - Collaborative filtering (User similarity & Item similarity)
