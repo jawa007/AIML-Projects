@@ -20,35 +20,40 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
     - This module covered - K-means clustering, - High-dimensional clustering, - Hierarchical clustering, - Dimension Reduction-PCA
     - **Project link:** [Unsupervised Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/04_Unsupervised%20Learning.ipynb)
         - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
+
+5. Feature Engineering Techniques
+    - This module covered - Exploratory data analysis, - Building ML models for regression, - Hyperparameter tuning
+    - **Project link:** [Feature Engineering Technique](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
+         - This project involved feature exploration and selection to predict the strength of high-performance concrete. Used Regression models like Decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and Grid search were used to tune the parameters for best model performance.
     
-5. Recommendation Systems
+6. Recommendation Systems
     - This module covered - Introduction to Recommendation systems, - Popularity based model, - Hybrid models, - Content based recommendation system, - Collaborative filtering (User similarity & Item similarity)
     - **Project link:**
     
-6. Neural Network Basics
+7. Neural Network Basics
     - This module covered - Gradient Descent, - Batch Normalization, - Hyper parameter tuning, - Tensor Flow & Keras for Neural Networks & Deep Learning, - Introduction to Perceptron & Neural Networks, - Activation and Loss functions, - Deep Neural Networks
     - **Project link:**
 
-7. Computer Vision
+8. Computer Vision
     - This module covered - Introduction to Convolutional Neural Networks, - Convolution, Pooling, Padding & its mechanisms, - Transfer Learning, - Forward propagation & Backpropagation for CNNs, - CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
     - **Project link:**
     
-8. Statistical NLP (Natural Language Processing)
+9. Statistical NLP (Natural Language Processing)
     - This module covered - Bag of Words Model, - POS Tagging, - Tokenization, - Word Vectorizer, - TF-IDF, - Named Entity Recognition, - Stop Words
     - **Project link:**
     
-9. Sequential NLP (Natural Language Processing)
+10. Sequential NLP (Natural Language Processing)
     - This module covered - Introduction to Sequential data, - Vanishing & Exploding gradients in RNNs, - LSTMs, - GRUs (Gated recurrent unit), - Case study: Sentiment analysis, - RNNs and its mechanisms, - Time series analysis, - LSTMs with attention mechanism, - Case study: Machine Translation
     - **Project link:**
     
-10. Advanced Computer Vision
+11. Advanced Computer Vision
     - This module covered - Semantic segmentation, - Siamese Networks, - YOLO, - Object & face recognition using techniques above
     - **Project link:**
     
-11. GANs (Generative adversarial networks)
+12. GANs (Generative adversarial networks)
     - This module covered - Introduction to GANs, - How GANs work?, - AutoEncoders, - Applications of GANs
     - **Project link:**
     
-12. Reinforcement Learning
+13. Reinforcement Learning
     - This module covered - Value based methods Q-learning, - Policy based methods
     - **Project link:**
