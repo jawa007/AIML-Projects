@@ -23,7 +23,7 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
 
 5. Feature Engineering Techniques
     - This module covered - Exploratory data analysis, - Building ML models for regression, - Hyperparameter tuning
-    - **Project link:** [Feature Engineering Technique](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
+    - **Project link:** [Feature Engineering Techniques](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
          - This project involved feature exploration and selection to predict the strength of high-performance concrete. Used Regression models like Decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and Grid search were used to tune the parameters for best model performance.
     
 6. Recommendation Systems
